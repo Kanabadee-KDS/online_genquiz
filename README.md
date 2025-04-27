@@ -6,7 +6,8 @@ Create *individual* questions for online examination
 ```
 pip install genquiz
 ```
-
+Copy genquiz folder to the project folder
+```
 *(tested on Python 3.7)*
 
 # Getting Started
